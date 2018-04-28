@@ -1,0 +1,15 @@
+body {
+    max-width: 90%;
+    margin: 2% auto;
+    background-color: #ededed;
+}
+
+#canvas {
+    border: 1px solid tomato;
+    background-color: orange;
+}
+
+canvas {
+    border: 1px solid #333333;
+    background-color: #fff;
+}
